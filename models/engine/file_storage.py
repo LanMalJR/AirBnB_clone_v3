@@ -85,4 +85,3 @@ class FileStorage:
             results = self.all(cls)
             count = len(results)
             return count
-
